@@ -12,6 +12,7 @@
 - SOC Fundamentals
 
 🎯 Career Goal
+
 Become a Blue Team / SOC Analyst.
 
 # 📫 Connect with Me
