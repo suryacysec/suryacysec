@@ -11,10 +11,6 @@
 - TryHackMe
 - SOC Fundamentals
 
-🎯 Career Goal
-
-Become a Blue Team / SOC Analyst.
-
 # 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/suryacysec
 - TryHackMe: https://tryhackme.com/p/suryacysec
