@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Suryansh Gupta
 
-<!--
-**suryacysec/suryacysec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🔐 Aspiring Cybersecurity Analyst
 
-Here are some ideas to get you started:
+🎓 B.Tech Information Technology Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Python
+- Linux
+- Networking
+- TryHackMe
+- SOC Fundamentals
+
+🎯 Career Goal
+Become a Blue Team / SOC Analyst.
+
+# 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/suryacysec
+- GitHub: https://github.com/suryacysec
